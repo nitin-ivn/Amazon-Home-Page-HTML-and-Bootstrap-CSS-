@@ -1,0 +1,20 @@
+body{
+    height: 10000px;
+}
+
+.home{
+    max-width: 95rem;
+    background-image: url("/img/bg.jpg");
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
+.product-card{
+    margin-top: 16.5rem;
+}
+
+.product-card-heading{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+

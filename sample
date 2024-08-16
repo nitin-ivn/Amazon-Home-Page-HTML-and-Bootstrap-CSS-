@@ -23,3 +23,42 @@
           </div>
         </div>
       </nav>
+
+
+
+
+
+      <div class="row gx-4">
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <div class="card-body">
+                  <h3 class="card-title">Special title treatment</h3>
+                  <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                </div>
+              </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <div class="card-body">
+                  <h3 class="card-title">Special title treatment</h3>
+                  <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                </div>
+              </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <div class="card-body">
+                  <h3 class="card-title">Special title treatment</h3>
+                  <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                </div>
+              </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="card">
+                <div class="card-body">
+                  <h3 class="card-title">Special title treatment</h3>
+                  <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                </div>
+              </div>
+        </div>
+    </div>
