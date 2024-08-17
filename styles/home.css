@@ -1,12 +1,16 @@
 body{
-    height: 10000px;
+    
 }
 
 .home{
-    max-width: 95rem;
+    max-width: 94rem;
     background-image: url("/img/bg.jpg");
     background-size:contain;
     background-repeat: no-repeat;
+}
+
+.responsive-container{
+    height: 25rem;
 }
 
 .product-card{
@@ -14,7 +18,23 @@ body{
 }
 
 .product-card-heading{
-    font-size: 1.5em;
     font-weight: bold;
 }
 
+.product-card-desc{
+    font-size: 0.8rem;
+}
+
+.product-card-footer{
+    font-size: 0.8rem;
+    color: rgb(0, 113, 133);
+}
+
+.product-card-footer:hover{
+    color: rgb(199, 81, 31);
+    cursor: pointer;
+}
+
+.custom-hover:hover{
+    cursor: pointer;
+}
